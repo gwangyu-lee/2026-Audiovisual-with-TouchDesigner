@@ -1,16 +1,8 @@
 # 2026-Audiovisual-with-TouchDesigner
 
-### Songs
-Another Day of Sun     
-`https://www.youtube.com/watch?v=Ef0bLgR1J3Q`    
-He's a Pirate    
-`https://www.youtube.com/watch?v=fI-qy8UqZC8`    
-I Ain’t Worried    
-`https://www.youtube.com/watch?v=INak4ORss18`    
-I'll Never Love Again    
-`https://www.youtube.com/watch?v=52nfjRzIaj8`    
-We Are The Champions    
-`https://www.youtube.com/watch?v=0OQIqjvOzXg`
-
+### LED
+18m * 5m (가로 세로)    
+좌 : 5m * 5m / 센터 : 8m * 5m / 우 : 5m * 5m
+  
 ### 3D Models
 `https://free3d.com/3d-model/penguin-v2--128210.html?dd_referrer=https%3A%2F%2Ffree3d.com%2F3d-models%2Fpenguin`    
